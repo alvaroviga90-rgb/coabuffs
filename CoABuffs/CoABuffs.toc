@@ -1,0 +1,43 @@
+## Interface: 30300
+## Title: CoABuffs
+## Notes: Gestion de buffs de raid para Conquest of Azeroth (Ascension 3.3.5a)
+## Author: proyecto COA
+## Version: 2.3.0
+## SavedVariables: CoABuffsDB
+## X-Protocolo: 1
+
+Libs\LibStub\LibStub.lua
+Libs\CallbackHandler-1.0\CallbackHandler-1.0.lua
+Libs\AceComm-3.0\ChatThrottleLib.lua
+Libs\AceComm-3.0\AceComm-3.0.lua
+Libs\AceSerializer-3.0\AceSerializer-3.0.lua
+Libs\AceGUI-3.0\AceGUI-3.0.lua
+Libs\AceGUI-3.0\widgets\AceGUIContainer-Frame.lua
+Libs\AceGUI-3.0\widgets\AceGUIContainer-SimpleGroup.lua
+Libs\AceGUI-3.0\widgets\AceGUIContainer-ScrollFrame.lua
+Libs\AceGUI-3.0\widgets\AceGUIWidget-Label.lua
+Libs\AceGUI-3.0\widgets\AceGUIWidget-InteractiveLabel.lua
+Libs\AceGUI-3.0\widgets\AceGUIWidget-Icon.lua
+Libs\AceGUI-3.0\widgets\AceGUIWidget-Button.lua
+Libs\AceGUI-3.0\widgets\AceGUIWidget-EditBox.lua
+Libs\AceGUI-3.0\widgets\AceGUIWidget-Heading.lua
+Libs\AceGUI-3.0\widgets\AceGUIWidget-DropDown.lua
+Libs\AceGUI-3.0\widgets\AceGUIWidget-DropDown-Items.lua
+
+Const.lua
+Core.lua
+Colores.lua
+Tooltip.lua
+Clasificador.lua
+Estado.lua
+Declaraciones.lua
+Catalogo.lua
+Escaner.lua
+Asignacion.lua
+Protocolo.lua
+Avisos.lua
+Perfiles.lua
+UI.lua
+Panel.lua
+Reparto.lua
+Minimapa.lua
