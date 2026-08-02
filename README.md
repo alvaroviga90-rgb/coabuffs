@@ -5,7 +5,7 @@ Addon de reparto de buffs para **Conquest of Azeroth** (Ascension, cliente 3.3.5
 Dice quién tiene que poner cada buff, quién lo tiene puesto y a quién le falta.
 No lanza hechizos, no toca barras de acción y no decide nada por ti.
 
-**[→ Guía de uso](https://USUARIO.github.io/coabuffs/)**
+**[→ Guía de uso](https://alvaroviga90-rgb.github.io/coabuffs/)**
 
 ---
 
